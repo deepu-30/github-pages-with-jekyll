@@ -1,4 +1,3 @@
-My blog
 
 ---
 title: "Food Blog"
